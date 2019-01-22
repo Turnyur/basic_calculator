@@ -3,4 +3,4 @@ This is a simple basic calculator i developed back in 2015 when i played with **
 
 Screenshots of the work
 
-![alt text](https://github.com/Turnyur/basic_calculator/shot1.png)
+![alt text](https://github.com/Turnyur/basic_calculator/blob/master/shot1.png)
